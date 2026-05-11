@@ -1,1 +1,2 @@
 "# devops-project" 
+DevOps is a tool, philosophies creating an environment where teams communicate constantly, automate workflows, and work together to solve problems, leading to faster and more reliable software development.Traditional software development environments saw development and operations teams working in silos, often resulting in delays, miscommunication, and deployment issues. DevOps changes this approach by promoting teamwork throughout the entire software development process. 
